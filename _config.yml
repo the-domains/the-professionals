@@ -1,0 +1,28 @@
+name: The Professionals
+favicon: null
+layout_spectrum: 0.5072137778624892
+typography_spectrum: 0.1100801129359752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8261310115922242
+  lightness: 0.08383542741648853
+  saturation: 0.7144152694381773
+  rhythmicContrast: 0.6775095344055444
+purpose: []
